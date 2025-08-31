@@ -28,24 +28,7 @@ A fully responsive E-Commerce Website built with **React.js**, **Redux**, and **
 |----------|------------------|---------|-----|
 | React.js | Redux            | Bootstrap | [Fake Store API](https://fakestoreapi.com/) |
 
-## 📁 Project Structure
 
-```
-src/
-├── components/
-│   ├── Header.js
-│   ├── ProductCard.js
-│   └── Cart.js
-├── pages/
-│   ├── Home.js
-│   └── ProductDetails.js
-├── redux/
-│   ├── actions.js
-│   ├── reducers.js
-│   └── store.js
-├── App.js
-└── index.js
-```
 
 ## 🛠️ Installation & Setup
 
