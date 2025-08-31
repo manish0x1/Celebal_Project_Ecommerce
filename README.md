@@ -1,10 +1,9 @@
-```markdown
 # 🛍️ NextBuy E-Commerce Website
 
 A fully responsive E-Commerce Website built with **React.js**, **Redux**, and **Bootstrap**. This project integrates the **Fake Store API** to dynamically display products and is designed to be easily customizable and scalable for real-world e-commerce solutions.
 
 ## 🚀 Live Demo
-https://nextbuy-store.vercel.app
+[🔗 Live Demo](https://nextbuy-store.vercel.app)
 
 ## 📦 Features
 
@@ -20,11 +19,9 @@ https://nextbuy-store.vercel.app
 
 ## 🧰 Tech Stack
 
-| Frontend | State Management | Styling | API |
-|----------|------------------|---------|-----|
-| React.js | Redux            | Bootstrap | [Fake Store API](https://fakestoreapi.com/) |
-
-
+| Frontend | State Management | Styling   | API |
+|----------|-----------------|----------|-----|
+| React.js | Redux           | Bootstrap | [Fake Store API](https://fakestoreapi.com/) |
 
 ## 🛠️ Installation & Setup
 
@@ -40,21 +37,4 @@ npm install
 
 # Start the development server
 npm start
-```
-
-## 🌍 Deployment
-
-This project is deployed on [Vercel](https://vercel.com/). Every push to the `main` branch triggers an automatic deployment.
-
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
-## 🙌 Acknowledgements
-
-- [Fake Store API](https://fakestoreapi.com/)
-- [Bootstrap](https://getbootstrap.com/)
-- [Vercel](https://vercel.com/)
-- [React](https://reactjs.org/)
-- [Redux](https://redux.js.org/)
 
