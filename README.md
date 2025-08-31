@@ -38,3 +38,24 @@ npm install
 # Start the development server
 npm start
 
+🌍 Deployment
+
+This project is deployed on Vercel
+. Every push to the main branch triggers an automatic deployment.
+
+📄 License
+
+This project is open-source and available under the MIT License
+.
+
+🙌 Acknowledgements
+
+Fake Store API
+
+Bootstrap
+
+Vercel
+
+React
+
+Redux
