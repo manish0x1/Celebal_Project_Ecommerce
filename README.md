@@ -4,7 +4,7 @@
 A fully responsive E-Commerce Website built with **React.js**, **Redux**, and **Bootstrap**. This project integrates the **Fake Store API** to dynamically display products and is designed to be easily customizable and scalable for real-world e-commerce solutions.
 
 ## 🚀 Live Demo
-🔗 [nextbuy-store.vercel.app](https://nextbuy-store.vercel.app)
+https://nextbuy-store.vercel.app
 
 ## 📦 Features
 
